@@ -1,0 +1,13 @@
+pandas
+numpy
+ipykernal
+matplotlib
+statsmodels.api
+pickle
+streamlit
+sklearn
+warnings
+seaborn
+textract
+docx
+pyPDF2
